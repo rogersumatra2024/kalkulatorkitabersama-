@@ -64,3 +64,10 @@ body {
 .clear:active {
   background-color: #c62828;
 }
+
+.footer {
+  margin-top: 10px;
+  font-size: 12px;
+  text-align: center;
+  color: black;
+}
